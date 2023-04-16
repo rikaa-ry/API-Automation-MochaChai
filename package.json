@@ -1,0 +1,31 @@
+{
+  "name": "api-automation-mochachai",
+  "version": "1.0.0",
+  "description": "request api with mocha chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikaa-ry/API-Automation-MochaChai.git"
+  },
+  "keywords": [
+    "api",
+    "mocha",
+    "chai",
+    "automation",
+    "testing"
+  ],
+  "author": "Rika Yulianto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rikaa-ry/API-Automation-MochaChai/issues"
+  },
+  "homepage": "https://github.com/rikaa-ry/API-Automation-MochaChai#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
